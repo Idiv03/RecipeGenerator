@@ -36,20 +36,3 @@ This project is a full-stack AI-powered Recipe Generator web application built w
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Idiv03/RecipeGenerator.git
-###2. Install Frontend Dependencies
-npm install
-###3. Start the Frontend Server
-npm start
-
-###4.🧠 Backend Setup (Spring Boot + Spring AI)
-Ensure you have Java 17+ and Maven installed.
-
-Add your OpenAI API key to application.properties:
-
-spring.ai.openai.api-key=YOUR_OPENAI_API_KEY
